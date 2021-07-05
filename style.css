@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+.heading{
+    width:80%;
+    font-size: xx-large;
+}
+.objects{
+    color: darkslategray;
+}
+#Camera{
+    border:2.5px solid gold ;
+    width: 350px;
+    height: 300px;
+}
